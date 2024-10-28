@@ -7,11 +7,10 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "serve": "serve ."
   },
-  "author": "Isabela e Daniel", 
+  "author": "Isabela e Daniel",
   "license": "ISC",
   "dependencies": {
+    "horario": "file:",
     "serve": "^13.0.4"
   }
 }
-
-
