@@ -1,0 +1,45 @@
+table {
+    width: 100%;
+    border-collapse: collapse;
+    text-align: center;
+    font-size: 0.9em; /* Reduz o tamanho da fonte */
+}
+
+caption {
+    font-size: 1.2em; /* Ajusta o tamanho da legenda */
+    font-weight: bold;
+    margin-bottom: 5px;
+}
+
+th, td {
+    border: 1px solid #333;
+    padding: 4px 6px; /* Reduz o espaçamento interno */
+}
+
+thead th {
+    background-color: #f2f2f2;
+    font-weight: bold;
+}
+.artes {
+    background-color: #FFDDC1; 
+}
+
+.estatistica {
+    background-color: #C1E1FF; 
+}
+
+.fisica {
+    background-color: #D1FFC1; 
+}
+
+.gerencia {
+    background-color: #FFD1E1; 
+}
+
+.ptas {
+    background-color: #FFFAC1; 
+}
+
+.pdm {
+    background-color: #E1C1FF; 
+}

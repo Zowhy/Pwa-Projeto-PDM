@@ -1,0 +1,26 @@
+.container {
+    text-align: center;
+}
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+th, td {
+    border: 1px solid #ccc;
+    padding: 8px;
+    text-align: center;
+}
+
+th {
+    background-color: #f2f2f2;
+}
+
+
+td.ocupado {
+    background-color: #C1E1FF; 
+}
+
+td.ead {
+    background-color: #FFFAC1; 
+}
