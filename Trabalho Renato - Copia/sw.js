@@ -1,6 +1,6 @@
 let cacheName = "horario";
-let filesToCache = ["/", "/index.html", 
-                "/css/style.css", "/js/main.js"];
+let filesToCache = ["/", "/index.html", "index2", "index3",
+                "/css/style.css","/css/style2.css", "/css/style3.css", "/js/main.js"];
 
 /* inicializando a service worker e fazendo o 
 download do conteúdo da aplicação */
